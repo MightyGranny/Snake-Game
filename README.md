@@ -26,9 +26,6 @@ A classic Snake Game built with Python and Pygame.
 ![Game Over](Screenshots/Game-Over.png)
 
 *The Game Over screen displayed after the snake collides with the wall or itself.*
-=======
-- Quit and Restart options
->>>>>>> db1d5d9aad038c43fea8b3000f986367be91147b
 
 ## Technologies Used
 
