@@ -17,13 +17,13 @@ A classic Snake Game built with Python and Pygame.
 
 ### Gameplay
 
-![Gameplay](screenshots/Game-Play.png)
+![Gameplay](Screenshots/Game-Play.png)
 
 *The snake collecting food while the current score is displayed.*
 
 ### Game Over
 
-![Game Over](screenshots/Game-Over.png)
+![Game Over](Screenshots/Game-Over.png)
 
 *The Game Over screen displayed after the snake collides with the wall or itself.*
 =======
