@@ -36,13 +36,6 @@ A classic Snake Game built with Python and Pygame.
 
 *The Game Over screen displayed after the snake collides with the wall or itself.*
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-python snake.py
-```
-
 ## 📋 Requirements
 
 - Python 3.13 or later
@@ -52,6 +45,13 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python snake.py
 ```
 
 
