@@ -48,6 +48,18 @@ pip install -r requirements.txt
 python snake.py
 ```
 
+## 📋 Requirements
+
+- Python 3.13 or later
+- Pygame 2.6.1
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## 🚀 Installation
 
 1. Clone the repository
