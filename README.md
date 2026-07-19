@@ -48,6 +48,33 @@ pip install -r requirements.txt
 python snake.py
 ```
 
+## 🚀 Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/MightyGranny/Snake-Game.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd Snake-Game
+```
+
+3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the game
+
+```bash
+python snake.py
+```
+
+
 ## Future Improvements
 
 - Pause feature
