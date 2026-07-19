@@ -1,7 +1,9 @@
 # 🐍 Snake Game 
 
 A classic Snake Game built with Python and Pygame.
-
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Features
 
