@@ -4,6 +4,13 @@ A classic Snake Game built with Python and Pygame.
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Version](https://img.shields.io/badge/Version-v1.0-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![GitHub release](https://img.shields.io/github/v/release/MightyGranny/Snake-Game)
 
 ## Features
 
