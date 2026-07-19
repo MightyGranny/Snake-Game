@@ -1,4 +1,4 @@
-# Snake Game 🐍
+# 🐍 Snake Game 
 
 A classic Snake Game built with Python and Pygame.
 
